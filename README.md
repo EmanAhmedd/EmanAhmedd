@@ -22,9 +22,13 @@
 <p align="left">
 I'm a Computer Science graduate and Backend Developer specializing in .NET technologies.<br><br>
 
-🔭 I build RESTful APIs using ASP.NET Core<br>
+
+🔭 I work with <b>.NET and ASP.NET Core</b> to develop RESTful APIs and structured backend systems.<br>
+💻 Experienced with <b>C#, Entity Framework Core, and SQL Server</b> for building reliable data-driven applications.<br>
+🌐 I also work with frontend technologies including <b>HTML, CSS, JavaScript, jQuery, and Angular</b>, enabling me to build and contribute to full-stack applications.<br>
 📚 Currently improving my problem-solving and backend architecture skills<br>
-⚡ Interested in full-stack web development and scalable systems
+⚡ Interested in building efficient, scalable, and maintainable web applications.
+
 </p>
 
 ###
