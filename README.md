@@ -5,20 +5,13 @@
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/eman-ahmed-512689280/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
-</div>
-
-###
-
-<h1 align="center">Hi 👋 I'm Eman Ahmed</h1>
+<h1 align="center">Hi There👋 I'm Eman Ahmed</h1>
 
 <h3 align="center">Backend Developer | .NET & ASP.NET Core</h3>
 
@@ -68,12 +61,3 @@ I'm a Computer Science graduate and Backend Developer specializing in .NET techn
 
 </div>
 
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark" height="220"/>
-</div>
-
-###
